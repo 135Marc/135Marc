@@ -6,6 +6,33 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=135Marc&layout=compact&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<h3 align="center"> Programming Languages</h3>
+
+<p align="center">
+  <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-0.png" height="80px" width="80px"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" height="100px" width="80px"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" height="120px" width="80px"/> 
+  <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" height="80px" width="80px"/>
+</p>
+
+<h3 align="center"> Databases </h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="80px" width="80px"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" height="80px" width="80px"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" height="80px" width="80px"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" height="80px" width="80px"/>
+</p>
+
+<h3 align="center"> Frameworks and Other Tools </h3>
+  <p align="center">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" height="120px" width="180px" />
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" height="120px" width="180px"/>
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" height="120px" width="180px"/>
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" height="120px" height="180px" />
+  </p>
+
+
 <!--
 
 <h3 align="left">Connect with me:</h3>
