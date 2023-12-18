@@ -4,6 +4,7 @@
 
 #### I have over 2 years of experience as a Web Developer, most of it as a FullStack Engineer, but also as a BackEnd Developer.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=135Marc&layout=compact&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
