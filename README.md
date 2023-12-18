@@ -4,13 +4,14 @@
 
 #### I have over 2 years of experience as a Web Developer, most of it as a FullStack Engineer, but also as a BackEnd Developer.
 
+
+<!--
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rfp135" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="" height="30" width="40" /></a>
 </p>
 
-
-<!--
 **135Marc/135Marc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
