@@ -4,9 +4,6 @@
 
 #### I have over 2 years of experience as a Web Developer, most of it as a FullStack Engineer, but also as a BackEnd Developer.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=135Marc&layout=compact&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <h3 align="center"> Programming Languages</h3>
 
 <p align="center">
@@ -39,6 +36,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/rfp135" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="" height="30" width="40" /></a>
 </p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=135Marc&layout=compact&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 **135Marc/135Marc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
