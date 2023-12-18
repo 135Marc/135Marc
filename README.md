@@ -1,6 +1,14 @@
-### Welcome to my profile, thank you for your visit! 
+## Welcome to my profile, thanks for stopping by! 👋
 
-## My name is Ricardo Ponte, I'm a Software Engineer, currently specializing in Web Development with a focus on FullStack Development. 
+#### My name is Ricardo Ponte, I'm a Software Engineer, currently residing in the beautiful island of São Miguel, in the Azores Archipelago (Portugal). 🌄
+
+#### I have over 2 years of experience as a Web Developer, most of it as a FullStack Engineer, but also as a BackEnd Developer.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/rfp135" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+</p>
+
 
 <!--
 **135Marc/135Marc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
